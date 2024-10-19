@@ -7,7 +7,7 @@
 <div> 
   <a href="https://leetcode.com/u/snasir2194/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="35" target="_blank"></a>
   <a href="https://linkedin.com/in/saad-nasir-152bb7212"><img src="https://img.shields.io/badge/-LinkedIn-%230077B2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"target="_blank"></a>
-  <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=someone@example.com&su=Hello%20There&body=Hi,%20this%20is%20an%20example%20email"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=#ff0000" height="35" target="_blank"></a>
+  <a href = "https://mail.google.com/mail/?view=cm&fs=1&to=snasir2194@gmail.com&tf=1"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=#ff0000" height="35" target="_blank"></a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
