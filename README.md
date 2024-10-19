@@ -1,6 +1,4 @@
 ## Hi what's up 👋 I'm Saad! 
-
-<h1 align="center">Hi 👋, I'm Saad</h1>
 <h3 align="center">Software Engineer
 CS & Bootcamp grad</h3>
 
