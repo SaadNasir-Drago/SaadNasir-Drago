@@ -1,12 +1,16 @@
 ## Hi what's up 👋 I'm Saad!
-<h3 align="center">Software Engineer
+<h3>Software Engineer
 CS & Bootcamp grad</h3>
 
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saad-nasir-152bb7212" target="blank" style="text-decoration:none"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saad-nasir-152bb7212" height="50" width="50" style="margin: 50px"/></a>
-<a href="https://www.leetcode.com/snasir2194" target="blank" style="text-decoration:none"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="snasir2194" height="50" width="50" style="margin: 50px"/></a>
-</p>
+ 
+<div> 
+  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank"></a>
+  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
