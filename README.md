@@ -1,14 +1,14 @@
 ## Hi what's up 👋 I'm Saad!
-<h3>Software Engineer
-CS & Bootcamp grad</h3>
+<h3>Software Engineer based in Bangladesh</h3>
+CS & Bootcamp graduate</h3>
 
 
 <h3 align="left">Connect with me:</h3>
  
 <div> 
   <a href="https://leetcode.com/u/snasir2194/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" target="_blank"></a>
-  <a href = "mailto:snasir2194@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="linkedin.com/in/saad-nasir-152bb7212" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank</a>
+  <a href="https://linkedin.com/in/saad-nasir-152bb7212"><img src="https://img.shields.io/badge/-LinkedIn-%230077B2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:snasir2194@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=brightred" target="_blank"></a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
