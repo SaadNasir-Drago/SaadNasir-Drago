@@ -1,6 +1,6 @@
 ## Hi what's up 👋 I'm Saad!
-<h3>Full Stack Software Engineer based in Bangladesh</h3>
-<p>CS & Bootcamp graduate</p>
+<h3>I am a Full Stack Software Engineer based in Bangladesh. Programming is my intellectual hobby.</h3>
+<p>I'm a CS & Bootcamp graduate as well.</p>
 
 <h3 align="left">Connect with me:</h3>
  
