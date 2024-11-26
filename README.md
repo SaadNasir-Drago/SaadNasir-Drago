@@ -1,5 +1,5 @@
 ## Hi what's up 👋 I'm Saad!
-<h3>I am a Full Stack Software Engineer based in Bangladesh.💻</h3> 
+<h3>I am a Full Stack Software Engineer.💻</h3> 
 <p>CS & European standard bootcamp graduate.</p>
 <p>Programming is my life's intellectual pursuit.⌨️</p>
 
