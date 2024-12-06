@@ -1,7 +1,7 @@
 ## Hi what's up 👋 I'm Saad!
 <h3>I am a Full Stack Software Engineer.💻</h3> 
 <p>Programming is my life's intellectual pursuit.⌨️</p>
-
+<p>CS and bootcamp grad</p>
 <h3 align="left">Connect with me:</h3>
  
 <div> 
