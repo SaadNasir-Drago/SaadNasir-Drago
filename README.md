@@ -1,5 +1,5 @@
 ## Hi what's up 👋 I'm Saad!
-<h3>I work as a Software Engineer (Full Stack).💻</h3> 
+<h3>I work as a Software Engineer (Full Stack) at a European AI startup.💻</h3> 
 
 <h3 align="left">Connect with me:</h3>
  
