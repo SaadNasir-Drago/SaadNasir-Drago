@@ -1,5 +1,5 @@
 ## Hi what's up 👋 I'm Saad Nasir!
-<h3>I am a Demo Engineer at Optimizely. <a href="[https://www.hiredkit.ai/](https://www.optimizely.com/)">Optimizely.com</a> </h3> 
+<h3>I am a Demo Engineer at <a href="https://www.optimizely.com/">Optimizely</a>. </h3> 
 
 <h3 align="left">Connect with me:</h3>
  
