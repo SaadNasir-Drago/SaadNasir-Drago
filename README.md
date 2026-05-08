@@ -33,9 +33,3 @@
     height="180em"
   />
 </p>
-
-<h3 align="left">Profile Views:</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=saadnasir-drago&label=Profile%20views&color=0e75b6&style=flat" alt="saadnasir-drago" />
-</p>
